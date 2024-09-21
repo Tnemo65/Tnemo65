@@ -1,4 +1,4 @@
-<!-- Trungquandev -->
+<!-- Tnemo -->
 <a href="#" target="_blank">
   <img src="svg/tnemo.svg" width="1200" />
 </a>
